@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on a productivity Saas plateform<br>👯 Seeking collaborative opportunities to contribute to projects involving web and mobile development, and leveraging cutting-edge technologies.
+🔭 I’m currently working on a productivity Saas plateform<br>
+👯 Seeking collaborative opportunities to contribute to projects involving web and mobile development, and leveraging cutting-edge technologies.
 
 
 ## 🌐 Socials:

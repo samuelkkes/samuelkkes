@@ -1,6 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently freelancing<br>
-👯 Seeking collaborative opportunities to contribute to projects involving web and mobile development, and leveraging cutting-edge technologies.
+I’m currently freelancing 🌝<br>
+Seeking collaborative opportunities to contribute to projects involving web and mobile development, and leveraging cutting-edge technologies.
 
 
 ## 🌐 Socials:

@@ -1,6 +1,7 @@
 # 💫 About Me:
-I’m currently freelancing 🌝<br>
-Seeking collaborative opportunities to contribute to projects involving web and mobile development, and leveraging cutting-edge technologies.
+Hi, I'm Samuel — but you can call me Eli.<br/>
+I'm a passionate fullstack developer currently freelancing, with a keen eye for design and a love for music.<br/>
+I enjoy building modern web and mobile experiences.
 
 
 ## 🌐 Socials:

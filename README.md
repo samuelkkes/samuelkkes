@@ -9,7 +9,7 @@ I work with international clients as a freelancer, taking products from design t
 ## What I build
 
 - **Web** — Backends with **NestJS** and **Spring Boot** (Kotlin/Java); frontends with **Next.js** and **Vue**
-- **Cross-platform mobile** — Production apps with **Expo / React Native**, shipped to the App Store and Play Store
+- **Cross-platform mobile** — Production apps with **Expo**, shipped to the App Store and Play Store
 - **Native Android** — Modern UIs with **Jetpack Compose**
 
 ---
@@ -26,7 +26,7 @@ I work with international clients as a freelancer, taking products from design t
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=plastic&logo=nestjs&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=plastic&logo=springboot&logoColor=white)
 
 **Mobile**
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=plastic&logo=expo&logoColor=%23D04A37) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=plastic&logo=jetpackcompose&logoColor=white)
+![Expo](https://img.shields.io/badge/expo-1C1E24?style=plastic&logo=expo&logoColor=%23D04A37) ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=plastic&logo=jetpackcompose&logoColor=white)
 
 ---
 

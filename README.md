@@ -32,7 +32,6 @@ I work with international clients as a freelancer, taking products from design t
 
 ## GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=samuelkkes&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=samuelkkes&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelkkes&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
